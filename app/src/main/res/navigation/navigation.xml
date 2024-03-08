@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/navigation"
+    app:startDestination="@id/todoFragment">
+    <fragment
+        android:id="@+id/todoFragment"
+        android:name="com.mya.todolist.ui.TodoFragment"
+        android:label="fragment_todo"
+        tools:layout="@layout/fragment_todo">
+
+    </fragment>
+</navigation>

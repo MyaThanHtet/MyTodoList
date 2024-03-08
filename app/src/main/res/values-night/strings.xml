@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="todo_list">Todo List</string>
+    <string name="status">status</string>
+    <string name="title">Title :</string>
+    <string name="status_">Status :</string>
+    <string name="completed">Completed</string>
+    <string name="incomplete">Incomplete</string>
+</resources>
